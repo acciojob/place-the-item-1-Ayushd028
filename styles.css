@@ -3,7 +3,7 @@
 	justify-content:space-between;
 	flex-wrap:wrap;
 }
-.items{
+.item{
 	height:100px;
 	width:100px;
 }
